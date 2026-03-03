@@ -1,6 +1,6 @@
 from coffeecup import MENU, calculate_total, apply_discount
 
-print("☕ Welcome to DevOps Coffee Shop ☕")
+print("☕ Welcome to venkat Coffee Shop ☕")
 print("Available Coffees:")
 
 for coffee, price in MENU.items():
