@@ -1,5 +1,5 @@
 import pytest
-from coffee import calculate_total, apply_discount
+from coffeecup import calculate_total, apply_discount
 
 def test_calculate_total():
     assert calculate_total("espresso", 2) == 200
